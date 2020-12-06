@@ -1,0 +1,1 @@
+FROM unityci/hub:latest
